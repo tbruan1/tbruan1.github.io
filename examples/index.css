@@ -1,0 +1,13 @@
+body{
+  background-color:#275068;
+}
+header{
+  background-color:#13394F;
+  text-align:center;
+}
+nav {
+	overflow:hidden;
+	margin: 0 auto;
+	list-style-type:none;
+	width: 450px;
+}
