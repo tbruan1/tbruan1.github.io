@@ -1,0 +1,35 @@
+<DOCTYPE html!>
+ <html>
+   
+   <head>
+     <title>
+         Bad license agreement
+     </title>
+     <link rel="stylesheet" type="text/css" href="../style_home.css">
+   </head>
+   
+   <body>
+   <header>
+     <h1>
+       Legalese Threat Meter 
+     </h1>
+     <nav>
+	<ul>
+		<li>
+			<a href="../index.html" class="active"> home </a>
+		</li>
+		<li>
+			<a href="../good-license-agreement/index.html"> Good License Agreement</a>
+		</li>
+		<li>
+			<a href="#" class="active"> Bad License Agreement </a>
+		</li>
+   </nav>
+     <p>
+       license agreement goes here
+     </p>
+   </header>
+   </body>
+   
+  </html>
+</DOCTYPE>
