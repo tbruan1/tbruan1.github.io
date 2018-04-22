@@ -1,0 +1,37 @@
+<DOCTYPE html!>
+ <html>
+   
+   <head>
+     <title>
+         hachathon website
+     </title>
+     <link rel="stylesheet" type="text/css" href="css/index.css">
+   </head>
+   
+   <body>
+   <header>
+     <h1>
+       Legalese Threat Meter 
+     </h1>
+   </header>
+   
+   <nav>
+	<ul>
+		<li>
+			<a href="#" class="active"> home </a>
+		</li>
+		<li>
+			<a href="good-license-agreement/index.html"> Good License Agreement</a>
+		</li>
+		<li>
+			<a href="bad-license-agreement/index.html"> Bad License Agreement </a>
+		</li>
+   </nav>
+   
+   <p>
+     explination goes here 
+   </p>
+     
+   </body>
+  </html>
+</DOCTYPE>
