@@ -2,7 +2,7 @@
      <title>
          Good license agreement
      </title>
-     <link rel="stylesheet" type="text/css" href="../index.css">
+     <link rel="stylesheet" type="text/css" href="index.css">
    </head>
    
    <body>
@@ -14,13 +14,13 @@
      <nav>
 	<ul>
 		<li>
-			<a href="../index.html" > home </a>
+			<a href="index.html" > home </a>
 		</li>
 		<li>
 			<a href="#" class = "active"> Good License Agreement</a>
 		</li>
 		<li>
-			<a href="../bad-license-agreement/index.html"> Bad License Agreement </a>
+			<a href="bad-license-agreement.html"> Bad License Agreement </a>
 		</li>
    </nav>
        
