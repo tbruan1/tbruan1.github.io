@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Legalese Analyzer",
+  "description": "This extension will analyze an end-user license agreement for threats to the privacy of your data.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
